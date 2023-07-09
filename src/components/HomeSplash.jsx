@@ -8,7 +8,7 @@ export default function HomeSplash() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    setTimeout(() => setLoading(false), 300) //3000
+    setTimeout(() => setLoading(false), 3000)
   }, [])
 
 
