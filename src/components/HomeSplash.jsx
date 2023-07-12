@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import logo from '/logo.png';
 import '../../src/App.css';
 import LoadingScreen from './LoadingScreen'
 import Home from "../pages/Home"
