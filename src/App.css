@@ -846,7 +846,7 @@ button.memberships img {
 }
 
 #ContactD {
-  background-image: url("novedades-bg.png");
+  background-image: url("https://res.cloudinary.com/dqzjo5wsl/image/upload/v1689254315/novedades-bg_g01hph.png");
   display: flex;
   justify-content: space-between;
 }
