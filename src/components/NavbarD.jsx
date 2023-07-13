@@ -1,7 +1,7 @@
 export default function NavbarD() {
   return (
     <nav id="NavbarD">
-    <img className="logo" src="./logo_arcs_v2.png" alt="logo" />
+    <img className="logo" src="logo_arcs_v2.png" alt="logo" />
     <ul>
         <li>About</li>
         <li>House</li>
