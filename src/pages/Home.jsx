@@ -65,7 +65,7 @@ export default function Home() {
         <div id="main-title" ref={viewportDivRef}>
           <div>
             {/* <h1>juno</h1> <img src="./logo_arcs_w.png" alt="logo" /> <h1>house</h1> */}
-            <img src="./BIG LOGO.png" />
+            <img src="/BIG LOGO.png" />
           </div>
         </div>
       </div>
