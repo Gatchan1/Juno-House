@@ -61,11 +61,11 @@ export default function Home() {
       {viewport === "d" && <NavbarD />}
 
       <div className="facility">
-        <img src="/blob/master/dist/ondarreta_proyect_juno_house_3.jpg" alt="facility photo" />
+        <img src="./ondarreta_proyect_juno_house_3.jpg" alt="facility photo" />
         <div id="main-title" ref={viewportDivRef}>
           <div>
             {/* <h1>juno</h1> <img src="./logo_arcs_w.png" alt="logo" /> <h1>house</h1> */}
-            <img src="/BIG LOGO.png" />
+            <img src="./BIG LOGO.png" />
           </div>
         </div>
       </div>

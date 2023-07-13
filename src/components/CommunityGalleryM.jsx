@@ -11,11 +11,11 @@ export default function CommunityGalleryM() {
   return (
     <div id="CommunityGalleryM">
       <div className="row">
-        <img className="thin" src="./carousel1.png" alt="photo 1" />
-        <img className="wide" src="./carousel2.png" alt="photo 2" />
+        <img className="thin" src="carousel1.png" alt="photo 1" />
+        <img className="wide" src="../carousel2.png" alt="photo 2" />
       </div>
       <div className="row">
-        <img className="wide" src="./carousel3.png" alt="photo 3" />
+        <img className="wide" src="/carousel3.png" alt="photo 3" />
         <img className="thin" src="./carousel4.png" alt="photo 4" />
       </div>
       <div className="row">
