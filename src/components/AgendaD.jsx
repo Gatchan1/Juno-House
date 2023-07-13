@@ -33,10 +33,10 @@ export default function AgendaD() {
                   </div>
                   <div className="retreat">
                     <div className="flag flag1">
-                      <img src="/flag1.png" alt="tag background" />
+                      <img src="./flag1.png" alt="tag background" />
                       <p>Community</p>
                     </div>
-                    <img className="image" src="/retreat.png" alt="spring urban retreat" />
+                    <img className="image" src="./retreat.png" alt="spring urban retreat" />
                   </div>
                 </div>
               </div>
@@ -55,10 +55,10 @@ export default function AgendaD() {
                   </div>
                   <div className="retreat">
                     <div className="flag flag2">
-                      <img src="/flag2.png" alt="tag background" />
+                      <img src="./flag2.png" alt="tag background" />
                       <p>Juno</p>
                     </div>
-                    <img className="image" src="/retreat.png" alt="spring urban retreat" />
+                    <img className="image" src="./retreat.png" alt="spring urban retreat" />
                   </div>
                 </div>
               </div>
@@ -77,10 +77,10 @@ export default function AgendaD() {
                   </div>
                   <div className="retreat">
                     <div className="flag flag1">
-                      <img src="/flag1.png" alt="tag background" />
+                      <img src="./flag1.png" alt="tag background" />
                       <p>Community</p>
                     </div>
-                    <img className="image" src="/retreat.png" alt="spring urban retreat" />
+                    <img className="image" src="./retreat.png" alt="spring urban retreat" />
                   </div>
                 </div>
               </div>
@@ -99,10 +99,10 @@ export default function AgendaD() {
                   </div>
                   <div className="retreat">
                     <div className="flag flag2">
-                      <img src="/flag2.png" alt="tag background" />
+                      <img src="./flag2.png" alt="tag background" />
                       <p>Juno</p>
                     </div>
-                    <img className="image" src="/retreat.png" alt="spring urban retreat" />
+                    <img className="image" src="./retreat.png" alt="spring urban retreat" />
                   </div>
                 </div>
               </div>
@@ -112,9 +112,9 @@ export default function AgendaD() {
       </div>
       <div className="button agenda">
         <button className="agenda">
-          <img src="/p_left.png" alt="left side of button" />
+          <img src="./p_left.png" alt="left side of button" />
           <p>Go to Agenda</p>
-          <img src="/p_right.png" alt="right side of button" />
+          <img src="./p_right.png" alt="right side of button" />
         </button>
       </div>
     </div>

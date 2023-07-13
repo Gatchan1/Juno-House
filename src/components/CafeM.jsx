@@ -11,7 +11,7 @@ export default function CafeM() {
             <button>Book your table</button>
         </div>
       </div>
-      <img src="/food.png" alt="local food" />
+      <img src="./food.png" alt="local food" />
     </div>
   );
 }

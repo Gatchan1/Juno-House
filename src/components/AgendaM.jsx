@@ -19,7 +19,7 @@ export default function AgendaM() {
           <div>
             <div className="container">
               <div className="article">
-                <img src="/retreat_m.png" alt="spring urban retreat" />
+                <img src="./retreat_m.png" alt="spring urban retreat" />
                 <div className="text">
                   <h4>SPRING URBAN RETREAT</h4>
                   <h4>BY U1É</h4>
@@ -35,7 +35,7 @@ export default function AgendaM() {
           <div>
             <div className="container">
               <div className="article">
-                <img src="/retreat_m.png" alt="spring urban retreat" />
+                <img src="./retreat_m.png" alt="spring urban retreat" />
                 <div className="text">
                   <h4>SPRING URBAN RETREAT</h4>
                   <h4>BY U1É</h4>
@@ -51,7 +51,7 @@ export default function AgendaM() {
           <div>
             <div className="container">
               <div className="article">
-                <img src="/retreat_m.png" alt="spring urban retreat" />
+                <img src="./retreat_m.png" alt="spring urban retreat" />
                 <div className="text">
                   <h4>SPRING URBAN RETREAT</h4>
                   <h4>BY U1É</h4>

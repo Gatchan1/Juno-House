@@ -846,7 +846,7 @@ button.memberships img {
 }
 
 #ContactD {
-  background-image: url("novedades-bg.png");
+  background-image: url("./assets/novedades-bg.png");
   display: flex;
   justify-content: space-between;
 }

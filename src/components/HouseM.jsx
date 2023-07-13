@@ -12,7 +12,7 @@ export default function HouseM() {
           <p>Speakeasy bar, fireside chats, private dinners, self-care, boutique fitness, and family-friendly services for the women in constant evolution.</p>
         </div>
         <div className="img">
-          <img src="/building_desktop.png" alt="drawing of the building"/>
+          <img src="./building_desktop.png" alt="drawing of the building"/>
         </div>
       </div>
     </div>

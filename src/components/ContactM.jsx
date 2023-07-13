@@ -19,13 +19,13 @@ export default function ContactM() {
         </div>
         <div className="icons">
           <a href="#">
-            <img src="/icon-ig.svg" alt="instagram" />
+            <img src="./icon-ig.svg" alt="instagram" />
           </a>
           <a href="#">
-            <img src="/icon-fb.svg" alt="facebook" />
+            <img src="./icon-fb.svg" alt="facebook" />
           </a>
           <a href="#">
-            <img src="/icon-in.svg" alt="linkedin" />
+            <img src="./icon-in.svg" alt="linkedin" />
           </a>
         </div>
       </div>

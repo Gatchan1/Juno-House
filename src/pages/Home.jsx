@@ -61,11 +61,11 @@ export default function Home() {
       {viewport === "d" && <NavbarD />}
 
       <div className="facility">
-        <img src="/ondarreta_proyect_juno_house_3.jpg" alt="facility photo" />
+        <img src="./ondarreta_proyect_juno_house_3.jpg" alt="facility photo" />
         <div id="main-title" ref={viewportDivRef}>
           <div>
-            {/* <h1>juno</h1> <img src="/logo_arcs_w.png" alt="logo" /> <h1>house</h1> */}
-            <img src="/BIG LOGO.png" />
+            {/* <h1>juno</h1> <img src="./logo_arcs_w.png" alt="logo" /> <h1>house</h1> */}
+            <img src="./BIG LOGO.png" />
           </div>
         </div>
       </div>
@@ -94,7 +94,7 @@ export default function Home() {
           )}
         </div>
         <div className="drawing">
-          <img src="/drawing.png" alt="two women holding hands" />
+          <img src="./drawing.png" alt="two women holding hands" />
           <div className="text">
             <p className="first">
               <span className="first">Collaboration</span>
@@ -140,7 +140,7 @@ export default function Home() {
       </div>
       {viewport === "m" && <footer>
         <div className="logo">
-            <img src="/logo_arcs_b.png"/>
+            <img src="./logo_arcs_b.png"/>
         </div>
         <div className="links">
             <a href="#">Terms & Conditions</a>

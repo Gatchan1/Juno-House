@@ -44,33 +44,33 @@ export default function CommunityGalleryD() {
     <div id="CommunityGalleryD">
       <Slider {...settings}>
         <div>
-          <img src="/carousel1.png" alt="photo 1" />
+          <img src="./carousel1.png" alt="photo 1" />
         </div>
         <div>
-          <img src="/carousel2.png" alt="photo 2" />
+          <img src="./carousel2.png" alt="photo 2" />
         </div>
         <div>
-          <img src="/carousel3.png" alt="photo 3" />
+          <img src="./carousel3.png" alt="photo 3" />
         </div>
         <div>
-          <img src="/carousel4.png" alt="photo 4" />
+          <img src="./carousel4.png" alt="photo 4" />
         </div>
         <div>
-          <img src="/carousel5.png" alt="photo 5" />
+          <img src="./carousel5.png" alt="photo 5" />
         </div>
         <div>
-          <img src="/carousel6.png" alt="photo 6" />
+          <img src="./carousel6.png" alt="photo 6" />
         </div>
         <div>
-          <img src="/carousel7.png" alt="photo 7" />
+          <img src="./carousel7.png" alt="photo 7" />
         </div>
         <div>
-          <img src="/carousel8.png" alt="photo 8" />
+          <img src="./carousel8.png" alt="photo 8" />
         </div>
       </Slider>
       <p><span>juno women</span> are smart, open-minded women from all walks of life.</p>
       <div className="button">
-      <button className="community"><img src="/p_left.png" alt="left side of button"/><p>Book a tour</p><img src="/p_right.png" alt="right side of button"/></button>
+      <button className="community"><img src="./p_left.png" alt="left side of button"/><p>Book a tour</p><img src="./p_right.png" alt="right side of button"/></button>
       </div>
     </div>
   );

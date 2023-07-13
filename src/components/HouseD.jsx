@@ -6,7 +6,7 @@ export default function HouseD() {
         <h4 className="nave">Nave</h4>
         <h4 className="farinera">Farinera</h4>
         <div className="img">
-          <img src="/building_desktop.png" alt="drawing of the building" />
+          <img src="./building_desktop.png" alt="drawing of the building" />
         </div>
         <p className="move">move over the illustration to discover more</p>
       </div>

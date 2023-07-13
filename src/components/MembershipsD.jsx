@@ -16,7 +16,7 @@ export default function MembershipsD() {
         </div>
       </div>
       <div className="button">
-      <button className="memberships"><img src="/p_left.png" alt="left side of button"/><p>Explore memberships</p><img src="/p_right.png" alt="right side of button"/></button>
+      <button className="memberships"><img src="./p_left.png" alt="left side of button"/><p>Explore memberships</p><img src="./p_right.png" alt="right side of button"/></button>
       </div>
     </div>
   );

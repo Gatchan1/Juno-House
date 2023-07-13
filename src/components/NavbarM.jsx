@@ -4,8 +4,8 @@ export default function NavbarM() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   let menuSrc;
 
-  if (!isMenuOpen) menuSrc = "/menu_w.png";
-  if (isMenuOpen) menuSrc = "/menu_v.png";
+  if (!isMenuOpen) menuSrc = "./menu_w.png";
+  if (isMenuOpen) menuSrc = "./menu_v.png";
 
   useEffect(() => {}, []);
   function toggleMenu() {
@@ -14,7 +14,7 @@ export default function NavbarM() {
 
   return (
     <nav id="NavbarM">
-      <img className="logo" src="/logo_arcs_v2.png" alt="logo" />
+      <img className="logo" src="./logo_arcs_v2.png" alt="logo" />
       <button
         onClick={() => {
           toggleMenu();
@@ -33,9 +33,9 @@ export default function NavbarM() {
             <li className="membership">Apply for membership</li>
 
             <li className="flex">
-              <img className="sign-in" src="/sign-in.svg" alt="sign in icon" />
+              <img className="sign-in" src="./sign-in.svg" alt="sign in icon" />
               <p>Sign In</p>
-              <img className="language" src="/en.png" alt="language" />
+              <img className="language" src="./en.png" alt="language" />
             </li>
           </ul>
         </div>
