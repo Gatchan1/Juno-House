@@ -188,7 +188,7 @@ section p {
 }
 
 #about {
-  padding-left: 20px;
+  padding-left: 5vw;
 }
 
 #about p {
@@ -235,7 +235,7 @@ section p {
 }
 
 #community h2 {
-  padding-left: 20px;
+  padding-left: 5vw;
   padding-bottom: 10px;
 }
 
@@ -323,7 +323,7 @@ section p {
 }
 
 #memberships h2 {
-  padding-left: 20px;
+  padding-left: 5vw;
   padding-bottom: 10px;
 }
 #MembershipsM {
@@ -427,7 +427,7 @@ button.memberships img {
 }
 
 #juno-agenda h2 {
-  padding: 0 0 30px 20px;
+  padding: 0 0 30px 5vw;
 }
 #AgendaM .slider {
   width: 85%;
@@ -599,12 +599,12 @@ button.memberships img {
 }
 
 #the-house h2 {
-  padding: 20px 0 0 20px;
+  padding: 20px 0 0 5vw;
   margin: 0
 }
 #HouseM,
 #HouseD {
-  padding-left: 20px;
+  padding-left: 5vw;
 }
 #HouseM .subtitle {
   font-family: "Times New Roman", Times, serif;

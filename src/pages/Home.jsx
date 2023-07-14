@@ -53,8 +53,6 @@ export default function Home() {
     }
   }, [viewport]);
 
-  // creo que tengo taggeados los div y las sections
-
   return (
     <div id="Home">
       {viewport === "m" && <NavbarM />}
